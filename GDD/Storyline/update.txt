@@ -1,0 +1,4 @@
+UPDATE : 
+event-bertemu polisi : tambah bagan "muncul polisi"
+event-rambu batas kecepatan : tambah bagan "muncul rambu batas kecepatan"
+event-lampu lalin : tambah bagan "muncul lalin"
